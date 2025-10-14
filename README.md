@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Nirmal Aswani
+# Hi there 👋, I'm Nirmal Kumar
 
 A [software developer/web enthusiast/full-stack engineer] based in [Your Location, e.g., Mumbai, India]. Passionate about [e.g., building cool apps, open-source, AI]. Let's connect!
 
