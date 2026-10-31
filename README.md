@@ -4,7 +4,7 @@
 
 A [software developer/web enthusiast/full-stack engineer] based in [Your Location, e.g., Mumbai, India]. Passionate about [e.g., building cool apps, open-source, AI]. Let's connect!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;I'm+Nirmal+Aswani;Full-Stack+Developer+%F0%9F%9A%80;Love+Open+Source!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;I'm+Nirmal+Kumar;Full-Stack+Developer+%F0%9F%9A%80;Love+Open+Source!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
