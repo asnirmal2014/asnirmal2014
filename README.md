@@ -23,7 +23,7 @@ A [software developer/web enthusiast/full-stack engineer] based in [Your Locatio
 | Languages   | [e.g., JavaScript, Python, HTML/CSS, Java]                           |
 | Frameworks  | [e.g., React, Node.js, Django, Spring Boot]                          |
 | Tools       | [e.g., Git, VS Code, Docker, AWS]                                    |
-| Databases   | [e.g., MongoDB, PostgreSQL, MySQL]                                   |
+| Databases   | [e.g., Oracle, MySQL, MongoDB, PostgreSQL]                           |
 
 ## 📊 GitHub Stats
 
