@@ -33,7 +33,8 @@ A software developer and full-stack engineer. Passionate about building cool app
 ## 📊 GitHub Stats
 
 <div align="center">
-
+username=asnirmal2014
+   
 [![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=asnirmal2014&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
