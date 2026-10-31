@@ -17,18 +17,18 @@ A software developer and full-stack engineer. Passionate about building cool app
 - ⚡ Fun fact: I love automating boring tasks!
 
 ## 🛠️ Tech Stack & Skills
-| Category               | Technologies                                      |
-|------------------------|---------------------------------------------------|
-| Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
-| Frameworks             | Spring, Spring Boot                               |
-| Testing Frameworks     | Selenium, Cucumber, TestNG, RestAssured           |
-| API Testing            | Postman, RestAssured                              |
-| Build Tools            | Maven                                             |
-| CI/CD                  | Jenkins                                           |
-| Databases              | Oracle, MySQL                                     |
-| IDEs                   | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
-| Version Control        | Git                                               |
-| Containerization       | Docker                                            |
+   Category               | Technologies                                      |
+ |------------------------|---------------------------------------------------|
+ | Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
+ | Frameworks             | Spring, Spring Boot                               |
+ | Testing Frameworks     | Selenium, Cucumber, TestNG, RestAssured           |
+ | API Testing            | Postman, RestAssured                              |
+ | Build Tools            | Maven                                             |
+ | CI/CD                  | Jenkins                                           |
+ | Databases              | Oracle, MySQL                                     |
+ | IDEs                   | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
+ | Version Control        | Git                                               |
+ | Containerization       | Docker                                            |
 
 ## 📊 GitHub Stats
 
@@ -39,12 +39,6 @@ A software developer and full-stack engineer. Passionate about building cool app
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-## 🔥 Pinned Projects
-
-<!-- Add your pinned repos here, e.g.:
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=asnirmal2014&repo=repo-name&theme=radical)](https://github.com/asnirmal2014/repo-name) **Description:** Brief repo summary.
--->
 
 ## 📫 Connect With Me
 
