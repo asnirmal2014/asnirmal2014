@@ -19,7 +19,7 @@ A software developer and full-stack engineer. Passionate about building cool app
 ## 🛠️ Tech Stack & Skills
 | Category               | Technologies                                      |
 |------------------------|---------------------------------------------------|
-| Languages              | Java, JavaScript, HTML/CSS, AJAX                  |
+| Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
 | Frameworks             | Spring, Spring Boot                               |
 | Testing Frameworks     | Selenium, Cucumber, TestNG, RestAssured           |
 | API Testing            | Postman, RestAssured                              |
