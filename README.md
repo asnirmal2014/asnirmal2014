@@ -20,10 +20,10 @@ A [software developer/web enthusiast/full-stack engineer] based in [Your Locatio
 
 | Category    | Tech                                                                 |
 |-------------|----------------------------------------------------------------------|
-| Languages   | [e.g., Java, Python, HTML/CSS, JavaScript]                           |
-| Frameworks  | [e.g., React, Node.js, Django, Spring Boot]                          |
-| Tools       | [e.g., Git, VS Code, Docker, AWS]                                    |
-| Databases   | [e.g., Oracle, MySQL, MongoDB, PostgreSQL]                           |
+| Languages   | [Java, Python, HTML/CSS, JavaScript]                                 |
+| Frameworks  | [React, Node.js, Django, Spring Boot]                                |
+| Tools       | [Git, VS Code, Docker, AWS]                                          |
+| Databases   | [Oracle, MySQL, MongoDB, PostgreSQL]                                 |
 
 ## 📊 GitHub Stats
 
