@@ -17,12 +17,18 @@ A software developer and full-stack engineer. Passionate about building cool app
 - ⚡ Fun fact: I love automating boring tasks!
 
 ## 🛠️ Tech Stack & Skills
-   Category    | Tech                                  |
- |-------------|---------------------------------------|
- | Languages   | JavaScript, Python, HTML/CSS, Java    |
- | Frameworks  | React, Node.js                        |
- | Tools       | Git, VS Code, Docker                  |
- | Databases   | MySQL, MongoDB, PostgreSQL            |
+| Category               | Technologies                                      |
+|------------------------|---------------------------------------------------|
+| Languages              | Java, JavaScript, HTML/CSS, AJAX                  |
+| Frameworks             | Spring, Spring Boot                               |
+| Testing Frameworks     | Selenium, Cucumber, TestNG, RestAssured           |
+| API Testing            | Postman, RestAssured                              |
+| Build Tools            | Maven                                             |
+| CI/CD                  | Jenkins                                           |
+| Databases              | Oracle, MySQL                                     |
+| IDEs                   | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
+| Version Control        | Git                                               |
+| Containerization       | Docker                                            |
 
 ## 📊 GitHub Stats
 
