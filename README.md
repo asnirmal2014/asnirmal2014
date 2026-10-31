@@ -20,7 +20,7 @@ A [software developer/web enthusiast/full-stack engineer] based in [Your Locatio
 
 | Category    | Tech                                                                 |
 |-------------|----------------------------------------------------------------------|
-| Languages   | [Java, Python, HTML/CSS, JavaScript]                                 |
+| Languages   | [Java, Python, HTML/CSS, JavaScript, AJAX]                           |
 | Frameworks  | [React, Node.js, Django, Spring Boot]                                |
 | Tools       | [Git, VS Code, Docker, AWS]                                          |
 | Databases   | [Oracle, MySQL, MongoDB, PostgreSQL]                                 |
