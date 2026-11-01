@@ -55,3 +55,4 @@ A software developer and full-stack engineer. Passionate about building cool app
 Made with ❤️ using GitHub
 
 ⭐ Star this repo if it helps! Feel free to fork and customize.
+🔮 📘 💻 🖥️ 🌐 💳 🗂 📦 📚
