@@ -21,7 +21,7 @@ A software developer and full-stack engineer. Passionate about building cool app
  |------------------------|---------------------------------------------------|
  | Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
  | Frameworks             | Spring, Spring Boot                               |
- | Testing Frameworks     | Selenium, Cucumber, TestNG, RestAssured           |
+ | Testing Frameworks     | Selenium, Cucumber, TestNG                        |
  | API Testing            | Postman, RestAssured                              |
  | Build Tools            | Maven                                             |
  | CI/CD                  | Jenkins                                           |
