@@ -51,6 +51,7 @@ A software developer and full-stack engineer. Passionate about building cool app
 </div>
 
 ---
+
 🔮 📘 💻 🖥️ 🌐 💳 🗂 📦 📚
 
 
