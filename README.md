@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Nirmal Kumar
+Hi there 👋, I'm Nirmal Kumar
 
 A software developer and full-stack engineer. Passionate about building cool apps, open-source, and AI. Let's connect!
 
@@ -8,7 +8,7 @@ A software developer and full-stack engineer. Passionate about building cool app
 
 </div>
 
-## 🚀 About Me
+🚀 About Me
 
 - 🔭 Currently working on: Personal projects and open-source contributions
 - 🌱 Learning: Cloud computing and AI tools
@@ -16,7 +16,7 @@ A software developer and full-stack engineer. Passionate about building cool app
 - 💬 Ask me about: Web development and coding tips
 - ⚡ Fun fact: I love automating boring tasks!
 
-## 🛠️ Tech Stack & Skills
+🛠️ Tech Stack & Skills
    Category               | Technologies                                      |
  |------------------------|---------------------------------------------------|
  | Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
@@ -30,7 +30,7 @@ A software developer and full-stack engineer. Passionate about building cool app
  | Version Control        | Git                                               |
  | Containerization       | Docker                                            |
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
    
@@ -40,7 +40,7 @@ A software developer and full-stack engineer. Passionate about building cool app
 
 </div>
 
-## 📫 Connect With Me
+📫 Connect With Me
 
 - 📧 Email: your.email@example.com
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
@@ -51,8 +51,9 @@ A software developer and full-stack engineer. Passionate about building cool app
 </div>
 
 ---
+🔮 📘 💻 🖥️ 🌐 💳 🗂 📦 📚
+
 
 Made with ❤️ using GitHub
 
 ⭐ Star this repo if it helps! Feel free to fork and customize.
-🔮 📘 💻 🖥️ 🌐 💳 🗂 📦 📚
