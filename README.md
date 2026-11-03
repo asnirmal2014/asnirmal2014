@@ -23,18 +23,67 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - ⚡ Fun fact: I love automating boring tasks!
 
 🛠️ Tech Stack & Skills
-   Category               | Technologies                                      |
- |------------------------|---------------------------------------------------|
- | Languages              | Java, Servlet, JSP, JavaScript, HTML/CSS, AJAX    |
- | Frameworks             | Spring, Spring Boot                               |
- | Testing Frameworks     | Selenium, Cucumber, TestNG                        |
- | API Testing            | Postman, RestAssured                              |
- | Build Tools            | Maven                                             |
- | CI/CD                  | Jenkins                                           |
- | Databases              | Oracle, MySQL                                     |
- | IDEs                   | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
- | Version Control        | Git                                               |
- | Containerization       | Docker                                            |
+   Category                 | Technologies                                      |
+ |--------------------------|---------------------------------------------------|
+ | Programming              | Java, JavaScript, HTML/CSS, AJAX                  |
+ | Java Technologies        | Servlet, JSP, JDBC, JSF, Spring, Spring Boot      |
+ | UI Automation            | Selenium WebDriver                                |
+ | Testing Frameworks       | Selenium, TestNG, Cucumber, JUnit                 |
+ | API Testing              | Postman, Rest Assured                             |
+ | Build Tools              | Maven                                             |
+ | CI/CD                    | Jenkins                                           |
+ | Databases                | Oracle, MySQL                                     |
+ | Version Control          | Git, GitHub                                       |
+ | IDEs                     | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
+ | Containerization         | Docker                                            |
+
+🧪 Automation Testing Expertise
+
+- Selenium WebDriver with Java
+- TestNG and JUnit
+- Cucumber BDD Framework
+- Page Object Model (POM)
+- PageFactory Design Pattern
+- Data-Driven Testing
+- Hybrid Automation Framework
+- REST API Automation using Rest Assured
+- API Testing using Postman
+- Database Testing using JDBC
+- Maven Build Management
+- Jenkins CI/CD Integration
+- Git and GitHub Version Control
+
+🚀 Featured Automation Projects
+
+1. OrangeHRM Automation Framework
+- Selenium WebDriver with Java
+- Cucumber BDD Framework
+- Page Object Model (POM)
+- Maven
+- Jenkins Integration
+
+2. Cogmento Free CRM Automation Framework
+- Selenium WebDriver with Java
+- TestNG
+- Page Object Model
+- Data-Driven Testing
+- AutoIT File Upload Automation
+
+3. E-Commerce API and Database Testing Framework
+- Rest Assured
+- Postman
+- JDBC
+- MySQL
+- Maven
+
+4. E-Commerce Backend API Testing
+- REST API Automation
+- Java
+- Rest Assured
+- TestNG
+- Maven
+
+
 
 📊 GitHub Stats
 
