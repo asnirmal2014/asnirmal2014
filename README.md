@@ -1,43 +1,52 @@
-<div align="center">
+ <div align="center">
 
-Hi there 👋, I'm Nirmal Kumar
+# Hi there 👋, I'm Nirmal Kumar
 
 ### Java Developer | Selenium Java Automation Engineer
 
-Experienced Java Developer with a strong background in Java/J2EE
-and Software Automation Testing.
+Experienced Java Developer with a strong background in Java/J2EE and Software Automation Testing.
 
-Passionate about building scalable automation frameworks,
-Web UI Testing, API Testing, Database Testing, and CI/CD.
+Passionate about building robust and scalable automation frameworks, Web UI Testing, API Testing, Database Testing, and CI/CD.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Welcome+To+My+GitHub+Profile!;I'm+Nirmal+Kumar;Full-Stack+Developer+%F0%9F%9A%80;Love+Open+Source!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Welcome+To+My+GitHub+Profile!;I'm+Nirmal+Kumar;Java+Developer;Selenium+Java+Automation+Engineer;Passionate+About+Test+Automation!" alt="Typing SVG" />
 
 </div>
 
-🚀 About Me
-- 🔭 Currently working on: Personal projects and open-source contributions
-- 🌱 Learning: Cloud computing and AI tools
-- 👯 Open to: Collaborations and mentorship
-- 💬 Ask me about: Web development and coding tips
-- ⚡ Fun fact: I love automating boring tasks!
+---
 
-🛠️ Tech Stack & Skills
-   Category                 | Technologies                                      |
- |--------------------------|---------------------------------------------------|
- | Programming              | Java, JavaScript, HTML/CSS, AJAX                  |
- | Java Technologies        | Servlet, JSP, JDBC, JSF, Spring, Spring Boot      |
- | UI Automation            | Selenium WebDriver                                |
- | Testing Frameworks       | Selenium, TestNG, Cucumber, JUnit                 |
- | API Testing              | Postman, Rest Assured                             |
- | Build Tools              | Maven                                             |
- | CI/CD                    | Jenkins                                           |
- | Databases                | Oracle, MySQL                                     |
- | Version Control          | Git, GitHub                                       |
- | IDEs                     | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
- | Containerization         | Docker                                            |
- | Other Tools              | AutoIT                                            |
+## 🚀 About Me
 
-📈 Automation Testing Expertise
+- 💻 Java Developer with experience in Java/J2EE technologies.
+- 🔭 Currently working on real-world Selenium Java Automation projects.
+- 🌱 Continuously improving my skills in Automation Testing, API Testing, and CI/CD.
+- 🧪 Interested in building maintainable and reusable automation frameworks.
+- 👯 Open to professional collaborations and opportunities.
+- ⚡ Fun fact: I love automating boring and repetitive tasks!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, JavaScript |
+| Web Technologies | HTML, CSS, AJAX |
+| Java Technologies | Servlet, JSP, JDBC, JSF, Spring, Spring Boot |
+| UI Automation | Selenium WebDriver |
+| Testing Frameworks | TestNG, Cucumber, JUnit |
+| API Testing | Postman, Rest Assured |
+| Database Testing | JDBC, Oracle, MySQL |
+| Build Tools | Maven |
+| CI/CD | Jenkins |
+| Version Control | Git, GitHub |
+| IDEs | Eclipse IDE, Spring Tool Suite (STS), VS Code |
+| Containerization | Docker |
+| Other Tools | AutoIt |
+
+---
+
+## 📈 Automation Testing Expertise
+
 - Selenium WebDriver with Java
 - TestNG and JUnit
 - Cucumber BDD Framework
@@ -52,76 +61,94 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - Jenkins CI/CD Integration
 - Git and GitHub Version Control
 
-🚀 Featured Automation Projects
-1. OrangeHRM Automation Framework
+---
+
+## 🚀 Featured Automation Projects
+
+### 1. OrangeHRM Automation Framework
+
+**Technologies:** Java, Selenium WebDriver, Cucumber, Maven, Jenkins, AutoIt
+
 - Selenium WebDriver with Java
 - Cucumber BDD Framework
 - Page Object Model (POM)
-- AutoIT File Upload Automation
-- Maven
-- Jenkins Integration
+- AutoIt File Upload Automation
+- Maven Build Management
+- Jenkins CI/CD Integration
 
-2. Cogmento Free CRM Automation Framework
+### 2. Cogmento Free CRM Automation Framework
+
+**Technologies:** Java, Selenium WebDriver, TestNG, Maven, Jenkins, AutoIt
+
 - Selenium WebDriver with Java
-- TestNG
+- TestNG Framework
 - Page Object Model (POM)
 - Data-Driven Testing
-- AutoIT File Upload Automation
-- Maven
-- Jenkins Integration
+- AutoIt File Upload Automation
+- Maven Build Management
+- Jenkins CI/CD Integration
 
-3. E-Commerce API and Database Testing Framework
-- Rest Assured
-- Postman
-- JDBC
-- MySQL
-- Maven
+### 3. E-Commerce API and Database Testing Framework
 
-4. E-Commerce Backend API Testing
+**Technologies:** Java, Rest Assured, Postman, JDBC, MySQL, Maven
+
+- REST API Testing using Rest Assured
+- API Testing using Postman
+- Database Validation using JDBC
+- MySQL Database Testing
+- Maven Build Management
+
+### 4. E-Commerce Backend API Testing Framework
+
+**Technologies:** Java, Rest Assured, TestNG, Maven
+
 - REST API Automation
-- Java
-- Rest Assured
-- TestNG
-- Maven
+- Rest Assured Framework
+- TestNG Integration
+- Maven Build Management
 
+---
 
+## 📊 GitHub Stats
 
-📊 GitHub Stats
 <div align="center">
-📈 GitHub Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asnirmal2014&theme=radical&hide_border=true)
+![Nirmal's GitHub Streak](https://streak-stats.demolab.com?user=asnirmal2014&theme=radical&hide_border=true)
 
-   
-[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=asnirmal2014&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=asnirmal2014&show_icons=true&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)
+
 </div>
+
+---
 
 ## 🎯 Professional Objective
 
-Seeking opportunities as a Java Developer /
-Selenium Java Automation Engineer.
+Seeking opportunities as a Java Developer / Selenium Java Automation Engineer.
 
-Interested in contributing to global software
-teams through reliable automation frameworks,
-quality engineering, API testing, and continuous
-integration practices.
+Interested in contributing to global software teams through reliable automation frameworks, quality engineering, API testing, database testing, and continuous integration practices.
 
-📫 Connect With Me
-- 📧 Email: your.email@example.com
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: YOUR_EMAIL_ADDRESS
+- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 🐙 GitHub: [asnirmal2014](https://github.com/asnirmal2014)
 
 <div align="center">
-  [![Profile Views](https://komarev.com/ghpvc/?username=asnirmal2014&color=radical)](https://github.com/kittinan/spotify-github-profile)
+
+![Profile Views](https://komarev.com/ghpvc/?username=asnirmal2014&color=radical)
+
 </div>
 
 ---
 
 🔮 📘 💻 🖥️ 🌐 💳 🗂 📦 📚
 
+<div align="center">
 
 Made with ❤️ using GitHub
 
-⭐ Star this repo if it helps! Feel free to fork and customize.
+</div>
