@@ -15,7 +15,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 </div>
 
 🚀 About Me
-
 - 🔭 Currently working on: Personal projects and open-source contributions
 - 🌱 Learning: Cloud computing and AI tools
 - 👯 Open to: Collaborations and mentorship
@@ -39,7 +38,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
  | Other Tools              | AutoIT                                            |
 
 📈 Automation Testing Expertise
-
 - Selenium WebDriver with Java
 - TestNG and JUnit
 - Cucumber BDD Framework
@@ -55,7 +53,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - Git and GitHub Version Control
 
 🚀 Featured Automation Projects
-
 1. OrangeHRM Automation Framework
 - Selenium WebDriver with Java
 - Cucumber BDD Framework
@@ -90,7 +87,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 
 
 📊 GitHub Stats
-
 <div align="center">
 📈 GitHub Contribution Activity
 
@@ -103,7 +99,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 </div>
 
 🎯 Professional Objective
-
 Seeking opportunities as a Java Developer / Selenium Java Automation Engineer.
 Interested in contributing to global software
 teams through reliable automation frameworks,
@@ -111,7 +106,6 @@ quality engineering, API testing, and continuous
 integration practices.
 
 📫 Connect With Me
-
 - 📧 Email: your.email@example.com
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
