@@ -102,8 +102,9 @@ Passionate about building robust and scalable automation frameworks, Web UI Test
 
 **Technologies:** Java, Spring Boot, Rest Assured, TestNG, Maven
 
-- REST API Automation
-- Rest Assured Framework
+- RESTful API Development using Spring Boot
+- REST API Automation using Rest Assured
+- API Validation and Functional Testing
 - TestNG Integration
 - Maven Build Management
 
