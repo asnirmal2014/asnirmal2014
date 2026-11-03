@@ -98,8 +98,11 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-🎯 Professional Objective
-Seeking opportunities as a Java Developer / Selenium Java Automation Engineer.
+## 🎯 Professional Objective
+
+Seeking opportunities as a Java Developer /
+Selenium Java Automation Engineer.
+
 Interested in contributing to global software
 teams through reliable automation frameworks,
 quality engineering, API testing, and continuous
