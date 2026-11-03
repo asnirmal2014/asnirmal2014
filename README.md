@@ -66,7 +66,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 2. Cogmento Free CRM Automation Framework
 - Selenium WebDriver with Java
 - TestNG
-- Page Object Model
+- Page Object Model (POM)
 - Data-Driven Testing
 - AutoIT File Upload Automation
 
