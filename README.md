@@ -38,7 +38,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
  | Containerization         | Docker                                            |
  | Other Tools              | AutoIT                                            |
 
-📈 Automation Testing Expertise
+📈 ### Automation Testing Expertise
 
 - Selenium WebDriver with Java
 - TestNG and JUnit
@@ -54,7 +54,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - Jenkins CI/CD Integration
 - Git and GitHub Version Control
 
-🚀 Featured Automation Projects
+🚀 ### Featured Automation Projects
 
 1. OrangeHRM Automation Framework
 - Selenium WebDriver with Java
