@@ -133,7 +133,7 @@ Interested in contributing to global software teams through reliable automation 
 
 ## 📫 Connect With Me
 
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 📧 Email: asnirmal2014@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
 - 🐙 GitHub: [asnirmal2014](https://github.com/asnirmal2014)
 
