@@ -92,7 +92,6 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 📊 GitHub Stats
 
 <div align="center">
-   
 📈 GitHub Contribution Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=asnirmal2014&theme=radical&hide_border=true)
@@ -101,8 +100,15 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 [![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=asnirmal2014&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asnirmal2014&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+
+🎯 Professional Objective
+
+Seeking opportunities as a Java Developer / Selenium Java Automation Engineer.
+Interested in contributing to global software
+teams through reliable automation frameworks,
+quality engineering, API testing, and continuous
+integration practices.
 
 📫 Connect With Me
 
