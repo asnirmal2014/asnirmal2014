@@ -36,6 +36,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
  | Version Control          | Git, GitHub                                       |
  | IDEs                     | Eclipse IDE, Spring Tool Suite (STS), VS Code     |
  | Containerization         | Docker                                            |
+ | Other Tools              | AutoIT                                            |
 
 🧪 Automation Testing Expertise
 
