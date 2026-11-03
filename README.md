@@ -60,6 +60,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - Selenium WebDriver with Java
 - Cucumber BDD Framework
 - Page Object Model (POM)
+- AutoIT File Upload Automation
 - Maven
 - Jenkins Integration
 
@@ -69,6 +70,8 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
 - Page Object Model (POM)
 - Data-Driven Testing
 - AutoIT File Upload Automation
+- Maven
+- Jenkins Integration
 
 3. E-Commerce API and Database Testing Framework
 - Rest Assured
