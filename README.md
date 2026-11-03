@@ -38,7 +38,7 @@ Web UI Testing, API Testing, Database Testing, and CI/CD.
  | Containerization         | Docker                                            |
  | Other Tools              | AutoIT                                            |
 
-🧪 Automation Testing Expertise
+📈 Automation Testing Expertise
 
 - Selenium WebDriver with Java
 - TestNG and JUnit
