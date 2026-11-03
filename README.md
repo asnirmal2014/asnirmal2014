@@ -100,7 +100,7 @@ Passionate about building robust and scalable automation frameworks, Web UI Test
 
 ### 4. E-Commerce Backend API Testing Framework
 
-**Technologies:** Java, Rest Assured, TestNG, Maven
+**Technologies:** Java, Spring Boot, Rest Assured, TestNG, Maven
 
 - REST API Automation
 - Rest Assured Framework
