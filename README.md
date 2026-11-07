@@ -108,6 +108,21 @@ Passionate about building robust and scalable automation frameworks, Web UI Test
 - TestNG Integration
 - Maven Build Management
 
+### 5. SauceDemo_Restful_Booker_Jenkins Automation Framework.
+
+**Technologies:** Java, Selenium WebDriver, Cucumber, Maven, Rest Assured, Jenkins, AutoIt
+
+- Selenium WebDriver with Java
+- Cucumber BDD Framework
+- Page Object Model (POM)
+- AutoIt File Upload Automation
+- Maven Build Management
+- Jenkins CI/CD Integration
+- REST API Automation using Rest Assured
+- API Validation and Functional Testing
+- TestNG Integration
+- Maven Build Management
+
 ---
 
 ## 📊 GitHub Stats
